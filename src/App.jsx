@@ -1,5 +1,5 @@
-import './styles/global.css';
+import './styles/global.scss';
 
 export function App() {
-    return <h1>Hello ReackJS</h1>
+    return <h1>Hello WORLD!</h1>
 }
